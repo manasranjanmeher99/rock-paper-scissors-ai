@@ -226,8 +226,8 @@ If you found this project useful, please consider giving it a ⭐ on GitHub.
 - 💻 Aspiring Software Engineer
 - 🤖 AI & Computer Vision Enthusiast
 
-GitHub:
+- GitHub:
 https://github.com/manasranjanmeher99
-Linkedin:
+- Linkedin:
 https://www.linkedin.com/in/manas-ranjan-meher-606181280/
 ---
